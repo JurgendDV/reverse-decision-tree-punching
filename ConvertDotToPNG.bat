@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Graphviz2.38\bin\dot.exe" -Tpng "C:\Users\jurgend\Apps\reverse-decision-tree-punching\reverse-decision-tree.dot" > "C:\Users\jurgend\Apps\reverse-decision-tree-punching\reverse-decision-tree.png"
