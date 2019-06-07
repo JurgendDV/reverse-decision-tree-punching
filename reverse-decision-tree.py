@@ -1,6 +1,6 @@
 #resources: https://www.youtube.com/watch?v=fS70iptz-XU&list=PL6SXJNGTndC7gBrOoLGo45McH5tvUf8df&index=2&t=2571s
 # https://graphviz.gitlab.io/_pages/Download/Download_windows.html
-# todo: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
+# todo: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html, https://stackoverflow.com/questions/47873366/can-sklearn-decisiontreeclassifier-truly-work-with-categorical-data
 import pandas
 from  sklearn import tree, model_selection
 import utils
